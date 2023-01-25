@@ -1,0 +1,9 @@
+
+{
+    "region" : "eu-north-1",
+    "profile" : "default",
+    "configuration" : "Release",
+    "image-tag"     : "awslambdaapigatewaydotnet7:latest",
+    "docker-build-working-dir" : "",
+    "vstoolkit-deployment-mode" : "PushOnly"
+}
